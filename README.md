@@ -1,4 +1,4 @@
-![logo](https://github.com/vikasnagar31/My_Profile-/blob/main/Screenshot%202024-05-04%20004533-Photoroom.png)
+![logo](https://github.com/vikasnagar31/vikasnagar31/blob/main/MyBanner.png)
 <h1 align="center">Hi 👋, I'm Vikas Nagar</h1>
 <h3 align="center">I'm Passionate about Data Analytics and my goal is to Turning Data into actionable Insights🚀.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif ">
