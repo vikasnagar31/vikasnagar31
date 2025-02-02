@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analytics and ML Projects**
 
-- 📫 How to reach me **nagarvikas2003@gmal.com**
+- 📫 How to reach me **nagarvikas2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
